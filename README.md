@@ -87,3 +87,10 @@
 <br>
 |__
 [道具素材](https://github.com/ln1325/sketch-full-scene/tree/84ff9e23aaa67226e0067b6caff034fd8aefa5b4/%E9%80%9F%E5%86%99%E7%B4%A0%E6%9D%90_%E5%9C%BA%E6%99%AF%E6%A8%A1%E6%9D%BF/%E9%81%93%E5%85%B7%E7%B4%A0%E6%9D%90)
+
+
+<div align=“center”>
+## - - - {考试2小时完整画面创作技巧} - - -
+
+    
+![note](https://github.com/ln1325/sketch-full-scene/blob/8827cf0ab12e6b02cc2c00ec1fea93d056951917/IMG_1246.jpeg)
