@@ -90,7 +90,9 @@
 
 
 <div align=“center”>
-## - - - {考试2小时完整画面创作技巧} - - -
+<h3>- - - {考试2小时完整画面创作技巧} - - -</h3>
 
     
 ![note](https://github.com/ln1325/sketch-full-scene/blob/8827cf0ab12e6b02cc2c00ec1fea93d056951917/IMG_1246.jpeg)
+
+</div>
